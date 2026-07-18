@@ -1,9 +1,7 @@
-<!-- Profile README for Sarfoclinto -->
-
-<h1 align="center">Hi there, I'm Sarfo Clinton 👋</h1>
+<h1 align="center">Hi there, I'm Sarfo Clinton 👋</h1
 
 <p align="center">
-  <b>Software Developer • React Enthusiast • TypeScript Aficionado</b>
+  <b>Full-Stack Software Developer • React • Next.js • ASP.NET Core • Blazor</b>
 </p>
 
 <p align="center">
@@ -25,9 +23,17 @@
 
 ## 👨‍💻 About Me
 
-Passionate software developer specializing in **modern web technologies**.  
-I love building **interactive user experiences** and **robust enterprise applications**.  
-Always eager to **learn**, **collaborate**, and **tackle new challenges**.
+I'm a passionate software developer who enjoys building applications that solve real-world problems.
+
+My experience spans:
+
+- 🌐 Modern Web Applications
+- ⚡ Real-Time Systems
+- 🏢 Enterprise Software
+- 🖥 Desktop Applications
+- 🎨 Responsive UI/UX Development
+
+I enjoy learning new technologies, solving challenging problems, and turning ideas into products.
 
 ---
 
@@ -46,20 +52,86 @@ Always eager to **learn**, **collaborate**, and **tackle new challenges**.
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+
+### Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-- **[Riddle-Rush](https://riddle-rush-kappa.vercel.app)**  
-  A multiplayer real-time riddle game built with React, Clerk, and Convex.  
-  Challenge friends, solve riddles, and compete for the top spot!
+### 🌐 Portfolio Website
 
-  <sub><i>(More projects coming soon...)</i></sub>
+🔗 **Live Demo:** https://clintonsarfo.vercel.app/
+
+A showcase of my work, skills, projects, and professional journey as a software developer.
+
+### 🎮 Riddle Rush
+
+🔗 **Live Demo:** https://riddle-rush-kappa.vercel.app/
+
+A real-time multiplayer riddle game built with React and modern web technologies.
+
+### 👕 FashionHub
+
+🔗 **Live Demo:** https://fashion-hub-navy.vercel.app/
+
+A modern fashion eCommerce platform designed for seamless online shopping.
+
+### 🛒 Shell POS
+
+🔗 **Live Demo:** https://shell-pos-frontend.vercel.app/admin
+
+Demo Credentials:
+
+- Email: admin@pos.com
+- Password: Admin@1234
+
+A lightweight Point of Sale (POS) system for managing sales and inventory.
+
+### 🔔 Siren Desktop Application
+
+A desktop application built with React + Electron for educational institutions.
+
+Features:
+
+- Schedule school bells
+- Configure dates and times
+- Audio management
+- Text-to-Speech announcements
+- Custom message broadcasting
 
 ---
 
-## 📊 Stats & Activity
+## 🚧 What I'm Building
+
+### 📚 Classmate
+
+An AI-powered study assistant designed to help students learn more effectively.
+
+Planned Features:
+
+- Lecture audio recording and transcription
+- AI-generated summaries and notes
+- Chat with your lessons using RAG
+- Personalized study plans
+- Quiz generation
+- Resource recommendations
+- Web and mobile experience
+
+Built with:
+
+- Next.js
+- React Native (Expo)
+- AI & RAG Technologies
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sarfoclinto&show_icons=true&theme=transparent" alt="GitHub Stats" height="150" />
@@ -92,4 +164,4 @@ Always eager to **learn**, **collaborate**, and **tackle new challenges**.
 
 ---
 
-⭐️ _Thanks for stopping by! Let’s build something amazing together._ 🚀
+⭐️ Thanks for visiting my profile! I'm always open to collaborating on interesting projects and opportunities.
