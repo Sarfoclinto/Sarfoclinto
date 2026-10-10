@@ -1,167 +1,96 @@
-<h1 align="center">Hi there, I'm Sarfo Clinton 👋</h1
+# Hi, I'm Sarfo Clinton
 
-<p align="center">
-  <b>Full-Stack Software Developer • React • Next.js • ASP.NET Core • Blazor</b>
-</p>
+**Full-Stack Software Developer** | React, TypeScript, Next.js, ASP.NET Core, Node.js | Kumasi, Ghana
 
-<p align="center">
-  <a href="https://github.com/sarfoclinto"><img src="https://img.shields.io/github/followers/sarfoclinto?label=Followers&style=social" alt="GitHub Followers"></a>
-  <a href="https://linkedin.com/in/clinton-sarfo"><img src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://clintonsarfo.vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit%20Now-orange?style=flat&logo=Vercel&logoColor=white" alt="Portfolio"></a>
-</p>
+[LinkedIn](https://linkedin.com/in/clinton-sarfo) | [Portfolio](https://clintonsarfo.vercel.app) | [Email](mailto:clinton.sarfo.dev@gmail.com)
 
-<p align="left">
-
-![](https://komarev.com/ghpvc/?username=Sarfoclinto&color=brightgreen&abbreviated=true)
-  <img src="https://img.shields.io/badge/currently-open%20to%20work-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/coding-frontendend%20%7C%20backend%20%26%20monbile-0075ca?style=flat-square&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/open%20to-collaboration-6f42c1?style=flat-square" />
-  <img src="https://img.shields.io/badge/listening%20on-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white" />
-</p>
+Open to full-stack and backend roles (remote or local).
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I'm a passionate software developer who enjoys building applications that solve real-world problems.
+I'm a full-stack developer with about 2 years of experience building and supporting production business software. At work I use React, TypeScript, ASP.NET Core and SQL Server, and I handle the whole path from UI and API to database and deployment on Windows Server/IIS. Outside work I build personal projects with Next.js, Node/Express, PostgreSQL and Convex.
 
-My experience spans:
-
-- 🌐 Modern Web Applications
-- ⚡ Real-Time Systems
-- 🏢 Enterprise Software
-- 🖥 Desktop Applications
-- 🎨 Responsive UI/UX Development
-
-I enjoy learning new technologies, solving challenging problems, and turning ideas into products.
+I like turning messy real-world workflows into software people actually use. Away from the keyboard I do magic tricks, so ask me for one.
 
 ---
 
-## 🛠️ Tech Stack & Expertise
+## Professional Work (Clockwise Tech Company Ltd, March 2025 to present)
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
+Small team building ERP, payment and receipt software for 20+ client companies. The code is private, so this is a summary.
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=flat&logo=electron&logoColor=white)
+- **Multi-tenant digital receipt platform.** Built end to end with React/TypeScript, ASP.NET Core (ADO.NET) and SQL Server. Receipts arrive from the company's ERP and POS, customers get an SMS link with a QR code, and each company's data is isolated by tenant. Live for about 3 months with 8 companies and about 174,000 receipts.
+- **Desktop and mobile shells for the company ERP.** An Electron app and an Expo (React Native) app that deliver a Blazor-based ERP as native apps, with silent receipt printing (A4 and thermal), automatic updates from a self-hosted server, an NSIS installer, and a protected per-device tenant URL.
+- **SchoolMate (school management).** Owned the React frontend from design to deployment, moved report-card generation from one-at-a-time client-side to server-side bulk generation, and built the parent portal.
+- **Deployment.** Set up and maintain apps on Windows Server with IIS (sites, domains, SSL).
 
 ---
 
-## 🚀 Featured Projects
+## Tech Stack
 
-### 🌐 Portfolio Website
-
-🔗 **Live Demo:** https://clintonsarfo.vercel.app/
-
-A showcase of my work, skills, projects, and professional journey as a software developer.
-
-### 🎮 Riddle Rush
-
-🔗 **Live Demo:** https://riddle-rush-kappa.vercel.app/
-
-A real-time multiplayer riddle game built with React and modern web technologies.
-
-### 👕 FashionHub
-
-🔗 **Live Demo:** https://fashion-hub-navy.vercel.app/
-
-A modern fashion eCommerce platform designed for seamless online shopping.
-
-### 🛒 Shell POS
-
-🔗 **Live Demo:** https://shell-pos-frontend.vercel.app/admin
-
-Demo Credentials:
-
-- Email: admin@pos.com
-- Password: Admin@1234
-
-A lightweight Point of Sale (POS) system for managing sales and inventory.
-
-### 🔔 Siren Desktop Application
-
-A desktop application built with React + Electron for educational institutions.
-
-Features:
-
-- Schedule school bells
-- Configure dates and times
-- Audio management
-- Text-to-Speech announcements
-- Custom message broadcasting
+| Area                 | Technologies                                                               |
+| -------------------- | -------------------------------------------------------------------------- |
+| Languages            | TypeScript, JavaScript, C#, SQL                                            |
+| Frontend             | React, Next.js, Redux, TanStack Query, Tailwind CSS, Ant Design, shadcn/ui |
+| Backend              | ASP.NET Core, ADO.NET, Node.js/Express, REST APIs, Socket.IO, JWT auth     |
+| Databases            | SQL Server, PostgreSQL, MySQL, Supabase, Convex                            |
+| Desktop and mobile   | Electron, React Native (Expo)                                              |
+| Integrations         | Paystack, Clerk, Google Gemini API, AssemblyAI, Twilio                     |
+| Deployment and tools | IIS, Vercel, Render, Git/GitHub                                            |
 
 ---
 
-## 🚧 What I'm Building
+## Featured Projects
 
-### 📚 Classmate
+### Shell POS
 
-An AI-powered study assistant designed to help students learn more effectively.
+Point-of-sale web app built solo with React/TypeScript, Node/Express, PostgreSQL (Supabase), Socket.IO and Paystack. It covers inventory, sales, reporting, authentication, receipts and mobile money payments.
 
-Planned Features:
+- A companion Expo app turns a phone into a barcode scanner: the POS shows a QR code, the phone scans it to join a Socket.IO room, and scanned products come back with their data from the database.
+- The backend uses Helmet, rate limiting and Winston logging. The frontend runs on Vercel and the backend on Render.
 
-- Lecture audio recording and transcription
-- AI-generated summaries and notes
-- Chat with your lessons using RAG
-- Personalized study plans
-- Quiz generation
-- Resource recommendations
-- Web and mobile experience
+**Live demo:** https://shell-pos-frontend.vercel.app/admin
 
-Built with:
+Demo login: `admin@pos.com` / `Admin@1234` (demo data only)
 
-- Next.js
-- React Native (Expo)
-- AI & RAG Technologies
+### Transfer Hub
 
----
+File and text sharing app built with Next.js, Supabase, Cloudflare R2 and Upstash Redis. It supports expiry, size limits, authentication, email sharing and guest access. My colleagues use it at work.
 
-## 📊 GitHub Stats
+**Live app:** https://shell-transfer.vercel.app
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarfoclinto&show_icons=true&theme=transparent" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarfoclinto&theme=transparent" alt="GitHub Streak" height="150" />
-</p>
+### Classmate (in development)
 
-<p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SarfoClinto&theme=github_dark" />
-</p>
-<p align="left">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SarfoClinto&theme=github_dark" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SarfoClinto&theme=github_dark" />
-</p>
----
+AI-powered study platform for students, built with Next.js, TypeScript, Convex, Clerk and Google Gemini. This is a private repository and it is not deployed yet.
 
-## 🌟 Fun Facts
+- AI chat over a student's notes and lecture transcripts, flashcards with spaced repetition, and personalised study plans
+- Audio recording (browser and Twilio voice) with transcription through AssemblyAI
+- A credit-based usage system with Paystack payments in USD and GHS, subscriptions and referrals
+- A shared topic cache to keep AI and API costs down
 
-- I love **magic tricks** — ask me to show you one! 🎩✨
-- Big fan of **human interaction**: I’ll pick a phone call over texting any day.
-- I enjoy **making new connections** and hanging out with people.
-- Secretly (or not so secretly) planning to get rich quick 💸.
+### Riddle Rush
+
+Real-time multiplayer riddle game built with React and Convex.
+
+**Live demo:** https://riddle-rush-kappa.vercel.app
+
+### School Siren Scheduler
+
+Offline desktop app (React and Electron) that lets schools schedule bells and sirens with custom text-to-speech announcements.
+
+### FashionHub
+
+E-commerce storefront built as a frontend project.
+
+**Live demo:** https://fashion-hub-navy.vercel.app
 
 ---
 
-## 📫 Connect with Me
+## Contact
 
-- 🌐 [Portfolio](https://clintonsarfo.vercel.app)
-- 💼 [LinkedIn](https://linkedin.com/in/clinton-sarfo)
-- 🖥 [GitHub](https://github.com/sarfoclinto)
+- Portfolio: https://clintonsarfo.vercel.app
+- LinkedIn: https://linkedin.com/in/clinton-sarfo
+- Email: clinton.sarfo.dev@gmail.com
 
----
-
-⭐️ Thanks for visiting my profile! I'm always open to collaborating on interesting projects and opportunities.
+Always happy to talk about interesting projects and opportunities.
